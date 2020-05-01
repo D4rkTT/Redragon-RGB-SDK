@@ -1,4 +1,5 @@
-![](redragonSDK.png)
+<p align="center"><img align="center" src="redragonSDK.png"></p>
+
 # Redragon RGB SDK
 First SDK for redragon products, it's unofficial and support few products due it's depending on reverse engineering every product to support it.
 
