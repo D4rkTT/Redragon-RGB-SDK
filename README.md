@@ -48,3 +48,5 @@ if you wanna to buy me a coffie or buy me a product to support it ☕❤
 - Bitcoin: ``1sgPvUDBT8ZpXwvJAjSsqWPiebjxTdjX9``
 - Ether:   ``0xdAcA9df277711Af20FA18b849471d50047D94B4b``
 - USDD:    ``0xdAcA9df277711Af20FA18b849471d50047D94B4b``
+## License
+The code is licensed under the ISC license. You're free to use, modify, redistribute and even use it in any commercial projects so long as you keep the copyright notice. Be aware that this means I provide no warranty whatsoever should your product malfunction.
