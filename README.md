@@ -10,15 +10,16 @@ First SDK for redragon products, it's unofficial and support few products due it
 1- Import dll to your project 
 ```C#
 [DllImport("Redragon RGB SDK.dll")]
-public static extern bool InitializeDevice();
+public static extern bool InitializeDevice(int M_Profile);
 [DllImport("Redragon RGB SDK.dll")]
 public static extern bool RedragonSetColor(int R, int G, int B, int Level);
 ```
 
-2- Use this function to check if device connected and initilaize it
+2- Use this function to check if device connected and initilaize it with current mouse profile
 ```C#
-InitializeDevice();
+InitializeDevice(int M_Profile);
 ```
+- M_Profile -> Current Mouse Profile
 - It will return true if device connected and successfully initialized
 
 3- Use this function to set color
