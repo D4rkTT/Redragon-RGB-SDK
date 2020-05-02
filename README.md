@@ -34,7 +34,7 @@ RedragonSetColor(int R, int G, int B, int Level);
 - Enter Level -1 if u dont want to change Brightness Level
 - It will return true if succssfully set
 
-## Current Mode
+## Current Modes
 - Fully Lighted Single Color
 
 ## Credits
