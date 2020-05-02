@@ -6,6 +6,9 @@ First SDK for redragon products, it's unofficial and support few products due it
 ## Supported Devices
 - Redragon M711 Cobra
 
+## Download
+[Redragon RGB SDK.dll](https://github.com/D4rkTT/Redragon-RGB-SDK/blob/master/x64/Release/Redragon%20RGB%20SDK.dll)
+
 ## Usage (C#)
 1- Import dll to your project 
 ```C#
