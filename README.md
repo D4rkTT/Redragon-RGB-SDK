@@ -11,7 +11,10 @@ First SDK for redragon products, it's unofficial and support few products due it
 
 ## Prerequisites
 1- Download & Install [LibUsbDotNet](https://sourceforge.net/projects/libusbdotnet/files/latest/download)
+
 2- Install Driver from window that appear after installation Like Screenshot
+
+![](filter.png)
 
 ## Usage (C#)
 1- Import dll to your project 
