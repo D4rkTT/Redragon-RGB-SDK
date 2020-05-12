@@ -9,6 +9,10 @@ First SDK for redragon products, it's unofficial and support few products due it
 ## Download
 [Redragon RGB SDK.dll](https://github.com/D4rkTT/Redragon-RGB-SDK/blob/master/x64/Release/Redragon%20RGB%20SDK.dll)
 
+## Prerequisites
+1- Download & Install [LibUsbDotNet](https://sourceforge.net/projects/libusbdotnet/files/latest/download)
+2- Install Driver from window that appear after installation Like Screenshot
+
 ## Usage (C#)
 1- Import dll to your project 
 ```C#
