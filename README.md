@@ -14,6 +14,8 @@ First SDK for redragon products, it's unofficial and support few products due it
 1- Download & Install [LibUsbDotNet](https://sourceforge.net/projects/libusbdotnet/files/latest/download)
 
 2- Install Driver from window that appear after installation Like Screenshot
+(M711 Cobra will end with rev:0112)
+(M711 FPS will end with rev:0310)
 
 ![](filter.png)
 
